@@ -1,1 +1,1 @@
-1Password Developer Fireside Chat: Intro to Nom Parsers, Part 2: Building a JSON Parser - YouTube
+https://www.youtube.com/watch?v=PELIEBlvKZg
